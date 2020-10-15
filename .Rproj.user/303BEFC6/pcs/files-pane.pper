@@ -1,0 +1,9 @@
+{
+    "path" : "~/Desktop/Property_Prices_Forecast_Croatia",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
