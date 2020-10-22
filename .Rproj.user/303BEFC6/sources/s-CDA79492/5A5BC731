@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1603389250438.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "5A5BC731",
+    "lastKnownWriteTime" : 140352569276928,
+    "last_content_update" : 1603389250438,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "CC4E495",
+        "caption" : "gdp_per_capita",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=gdp_per_capita&cache_key=CC4E495",
+        "displayedObservations" : "1",
+        "environment" : "",
+        "expression" : "gdp_per_capita",
+        "object" : "gdp_per_capita",
+        "preview" : "0",
+        "totalObservations" : "1",
+        "variables" : "8"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3392507898",
+    "hash" : "2576199927",
     "id" : "BCEF2A8E",
-    "lastKnownWriteTime" : 1603212797,
-    "last_content_update" : 1603212797453,
+    "lastKnownWriteTime" : 1603389625,
+    "last_content_update" : 1603389625575,
     "path" : "~/Desktop/Property_Prices_Forecast_Croatia/property_prices_index_forecast.R",
     "project_path" : "property_prices_index_forecast.R",
     "properties" : {
-        "cursorPosition" : "23,0",
-        "scrollLine" : "17"
+        "cursorPosition" : "29,0",
+        "scrollLine" : "5"
     },
     "read_only" : false,
     "read_only_alternatives" : [
