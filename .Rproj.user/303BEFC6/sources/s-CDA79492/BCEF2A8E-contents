@@ -89,4 +89,17 @@ y_pred = predict(regressor,
 
 # Backward elimination
 
+# Visualizing the dataset - house price index,gdp per capita and interest rates per year
+
+ggplot() +
+  geom_point(aes(x = row.names(dataset), y = scale(dataset$house_price_index)),
+             color = 'red') +
+  geom_line(aes(x = row.names(dataset), y = scale(dataset$housing_loans_interest_rates), group = 1),
+            color = 'blue') +
+  geom_line(aes(x = row.names(dataset), y = scale(dataset$`gdp_per_capita (us$)`), group = 1),
+            color = 'dark green')
+
+# House price index isn't linear but polynomial -> using polynomial regression
+
+
 

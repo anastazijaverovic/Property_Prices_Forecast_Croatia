@@ -1,24 +1,24 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1603648636252.000,
+    "created" : 1603816171302.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
     "hash" : "0",
-    "id" : "B437476B",
+    "id" : "ACD9139",
     "lastKnownWriteTime" : 1593498097,
     "last_content_update" : 1593498097,
-    "path" : "~/Desktop/Machine_Learning_Algorithms_R/Part 2 - Regression/Section 5 - Multiple Linear Regression/multiple_linear_regression.R",
+    "path" : "~/Desktop/Machine_Learning_Algorithms_R/Part 2 - Regression/Section 6 - Polynomial Regression/polynomial_regression.R",
     "project_path" : null,
     "properties" : {
-        "cursorPosition" : "25,35",
-        "scrollLine" : "11"
+        "cursorPosition" : "35,32",
+        "scrollLine" : "21"
     },
     "read_only" : false,
     "read_only_alternatives" : [
     ],
-    "relative_order" : 3,
+    "relative_order" : 2,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "r_source"
